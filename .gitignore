@@ -36,3 +36,4 @@
 Makefile
 bead3
 graphics.hpp
+.gitignore
